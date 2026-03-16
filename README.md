@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/SMOLDEVI">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Rust+%7C+Python+%7C+C%2B%2B+%7C+C%23+%7C+Java;Welcome+to+my+profile!+%F0%9F%91%8B" alt="Typing SVG" />
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70000&center=true&width=435&lines=Just+smol+developer;Trying+to+be+my+best" alt="Typing SVG" />
+   </a>
   </a>
 </p>
 
