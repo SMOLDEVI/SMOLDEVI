@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Dsagar</h1>
+<h1 align="center">Dsagar</h1>
 
 <p align="center">
   <a href="https://github.com/SMOLDEVI">
