@@ -9,8 +9,6 @@
 
 ---
 
-### 🛠️ Технологии и языки
-
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -20,8 +18,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Статистика
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SMOLDEVI&show_icons=true&theme=tokyonight&hide_border=true" alt="SMOLDEVI's GitHub Stats" />
