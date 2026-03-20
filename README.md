@@ -7,7 +7,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -17,7 +16,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SMOLDEVI&show_icons=true&theme=tokyonight&hide_border=true" alt="SMOLDEVI's GitHub Stats" />
